@@ -71,7 +71,7 @@ Learning resources:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AABHAYRANJANPANDEY&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AABHAYRANJANPANDEY&layout=compacttheme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AABHAYRANJANPANDEY&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AABHAYRANJANPANDEY&theme=radical)
 
