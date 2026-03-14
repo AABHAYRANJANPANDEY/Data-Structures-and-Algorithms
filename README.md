@@ -22,3 +22,6 @@ Language Used:
 Java
 
 Each solution includes problem description, approach explanation, and time & space complexity analysis to strengthen algorithmic thinking and interview preparation for top tech companies.
+
+
+Total Problems Solved: 200+
