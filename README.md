@@ -47,17 +47,6 @@ Problems are solved from platforms like LeetCode, GeeksforGeeks, and Codeforces 
 
 ---
 
-## 🧠 Problem List
-
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Code |
-| 2 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Code |
-| 3 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Code |
-| 4 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Code |
-| 5 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Code |
-
----
 
 ## 📖 Resources
 
