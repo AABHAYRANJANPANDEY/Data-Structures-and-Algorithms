@@ -37,4 +37,6 @@ Each solution includes problem description, approach explanation, and time & spa
 | Dynamic Programming | 2 | 3 | 2 | 7 |
 
 | **Total Problems Solved** | **25** | **18** | **8** | **51** |
-Total Problems Solved: 200+
+
+🎯 Goal: Solve 200+ DSA Problems
+Progress: 51 / 200
