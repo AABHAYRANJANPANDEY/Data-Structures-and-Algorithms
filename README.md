@@ -67,7 +67,15 @@ Learning resources:
 - Interview preparation guides
 
 ---
+## 📊 GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+
+---
 ## 🎯 Goal
 
 Solve **200+ DSA problems** and build strong problem-solving skills for coding interviews.
