@@ -8,10 +8,13 @@ Problems are solved from platforms like LeetCode, GeeksforGeeks, and Codeforces 
 
 ## 🏆 Badges
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepo)
+![GitHub stars](https://img.shields.io/github/stars/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
+![GitHub forks](https://img.shields.io/github/forks/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
+![GitHub last commit](https://img.shields.io/github/last-commit/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
+![GitHub repo size](https://img.shields.io/github/repo-size/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
+![DSA Problems](https://img.shields.io/badge/Problems%20Solved-50-blue)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
