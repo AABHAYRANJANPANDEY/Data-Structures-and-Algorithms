@@ -1,2 +1,8 @@
 # Data-Structures-and-Algorithms
-A structured collection of Data Structures &amp; Algorithms solutions with explanations, complexity analysis, and interview-focused problem sets.
+🚀 A structured repository dedicated to mastering Data Structures and Algorithms for coding interviews and competitive programming.
+
+This repository contains clean implementations, optimized solutions, and detailed explanations for popular problems across multiple platforms including LeetCode, GeeksforGeeks, Codeforces, and HackerRank.
+
+Topics covered include Arrays, Strings, Linked Lists, Stack, Queue, Trees, Graphs, Dynamic Programming, Greedy Algorithms, Backtracking, Sliding Window, and Bit Manipulation.
+
+Each solution includes problem description, approach explanation, and time & space complexity analysis to strengthen algorithmic thinking and interview preparation for top tech companies.
